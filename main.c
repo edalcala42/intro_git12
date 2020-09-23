@@ -10,7 +10,7 @@ int main(){
     printf("Hola %s",nombre);
     printf("Edad: ");
     scanf("%u", &edad);
-    printf("Vas a cumplir %u", edad+1);
+    printf("Vas a cumplir %u\n", edad+1);
 
     return 0;
 }
